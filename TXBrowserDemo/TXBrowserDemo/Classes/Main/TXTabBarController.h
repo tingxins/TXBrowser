@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TXTabBarController.h
 //  TXBrowserDemo
 //
 //  Created by 李昕 on 4/20/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TXTabBarController : UITabBarController
 
 @end
-

@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "TXTabBarController.h"
 
 @interface AppDelegate ()
 
@@ -16,7 +17,11 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+    TXTabBarController *tabBarController = [[TXTabBarController alloc] init];
+    tabBarController.view.backgroundColor = [UIColor redColor];
+    self.window.rootViewController = tabBarController;
+    [self.window makeKeyAndVisible];
     return YES;
 }
 
