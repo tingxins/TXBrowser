@@ -13,8 +13,8 @@
 		973105031CC8ACC300F24399 /* TXCommandModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 973104FF1CC8ACC300F24399 /* TXCommandModel.m */; };
 		973105041CC8ACC300F24399 /* TXSystemMusicModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 973105011CC8ACC300F24399 /* TXSystemMusicModel.m */; };
 		973105071CC8B51100F24399 /* TXPlayDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 973105061CC8B51100F24399 /* TXPlayDetailViewController.m */; };
-		9731050A1CC8B9CC00F24399 /* Simulator Screen Shot Apr 21, 2016, 15.33.07.png in Resources */ = {isa = PBXBuildFile; fileRef = 973105081CC8B9CC00F24399 /* Simulator Screen Shot Apr 21, 2016, 15.33.07.png */; };
-		9731050B1CC8B9CC00F24399 /* Simulator Screen Shot Apr 21, 2016, 15.33.16.png in Resources */ = {isa = PBXBuildFile; fileRef = 973105091CC8B9CC00F24399 /* Simulator Screen Shot Apr 21, 2016, 15.33.16.png */; };
+		9731050A1CC8B9CC00F24399 /* browser.png in Resources */ = {isa = PBXBuildFile; fileRef = 973105081CC8B9CC00F24399 /* browser.png */; };
+		9731050B1CC8B9CC00F24399 /* setting.png in Resources */ = {isa = PBXBuildFile; fileRef = 973105091CC8B9CC00F24399 /* setting.png */; };
 		976DEB5C1CC86DA200E37D0D /* TXBasicSettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB281CC86DA200E37D0D /* TXBasicSettingViewController.m */; };
 		976DEB601CC86DA200E37D0D /* TXArrowImageItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB311CC86DA200E37D0D /* TXArrowImageItemModel.m */; };
 		976DEB611CC86DA200E37D0D /* TXArrowItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB331CC86DA200E37D0D /* TXArrowItemModel.m */; };
@@ -77,8 +77,8 @@
 		973105011CC8ACC300F24399 /* TXSystemMusicModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXSystemMusicModel.m; sourceTree = "<group>"; };
 		973105051CC8B51100F24399 /* TXPlayDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXPlayDetailViewController.h; sourceTree = "<group>"; };
 		973105061CC8B51100F24399 /* TXPlayDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXPlayDetailViewController.m; sourceTree = "<group>"; };
-		973105081CC8B9CC00F24399 /* Simulator Screen Shot Apr 21, 2016, 15.33.07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot Apr 21, 2016, 15.33.07.png"; sourceTree = "<group>"; };
-		973105091CC8B9CC00F24399 /* Simulator Screen Shot Apr 21, 2016, 15.33.16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot Apr 21, 2016, 15.33.16.png"; sourceTree = "<group>"; };
+		973105081CC8B9CC00F24399 /* browser.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = browser.png; sourceTree = "<group>"; };
+		973105091CC8B9CC00F24399 /* setting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = setting.png; sourceTree = "<group>"; };
 		976DEB271CC86DA200E37D0D /* TXBasicSettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXBasicSettingViewController.h; sourceTree = "<group>"; };
 		976DEB281CC86DA200E37D0D /* TXBasicSettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXBasicSettingViewController.m; sourceTree = "<group>"; };
 		976DEB301CC86DA200E37D0D /* TXArrowImageItemModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXArrowImageItemModel.h; sourceTree = "<group>"; };
@@ -421,8 +421,8 @@
 				970D6B2B1CC87029009120F0 /* TXBrowser.pch */,
 				970D6B2C1CC8707A009120F0 /* TXCommon.h */,
 				970D6B371CC8AA66009120F0 /* music.plist */,
-				973105081CC8B9CC00F24399 /* Simulator Screen Shot Apr 21, 2016, 15.33.07.png */,
-				973105091CC8B9CC00F24399 /* Simulator Screen Shot Apr 21, 2016, 15.33.16.png */,
+				973105081CC8B9CC00F24399 /* browser.png */,
+				973105091CC8B9CC00F24399 /* setting.png */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -533,9 +533,9 @@
 				977A034F1CC7911B006FC5EE /* LaunchScreen.storyboard in Resources */,
 				970D6B381CC8AA66009120F0 /* music.plist in Resources */,
 				977A034C1CC7911B006FC5EE /* Assets.xcassets in Resources */,
-				9731050B1CC8B9CC00F24399 /* Simulator Screen Shot Apr 21, 2016, 15.33.16.png in Resources */,
+				9731050B1CC8B9CC00F24399 /* setting.png in Resources */,
 				977A037B1CC7932B006FC5EE /* Info.plist in Resources */,
-				9731050A1CC8B9CC00F24399 /* Simulator Screen Shot Apr 21, 2016, 15.33.07.png in Resources */,
+				9731050A1CC8B9CC00F24399 /* browser.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
