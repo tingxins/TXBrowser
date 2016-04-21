@@ -12,6 +12,7 @@
 		970D6B451CC8AB12009120F0 /* TXPlayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 970D6B441CC8AB12009120F0 /* TXPlayViewController.m */; };
 		973105031CC8ACC300F24399 /* TXCommandModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 973104FF1CC8ACC300F24399 /* TXCommandModel.m */; };
 		973105041CC8ACC300F24399 /* TXSystemMusicModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 973105011CC8ACC300F24399 /* TXSystemMusicModel.m */; };
+		973105071CC8B51100F24399 /* TXPlayDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 973105061CC8B51100F24399 /* TXPlayDetailViewController.m */; };
 		976DEB5C1CC86DA200E37D0D /* TXBasicSettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB281CC86DA200E37D0D /* TXBasicSettingViewController.m */; };
 		976DEB601CC86DA200E37D0D /* TXArrowImageItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB311CC86DA200E37D0D /* TXArrowImageItemModel.m */; };
 		976DEB611CC86DA200E37D0D /* TXArrowItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB331CC86DA200E37D0D /* TXArrowItemModel.m */; };
@@ -72,6 +73,8 @@
 		973104FF1CC8ACC300F24399 /* TXCommandModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXCommandModel.m; sourceTree = "<group>"; };
 		973105001CC8ACC300F24399 /* TXSystemMusicModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXSystemMusicModel.h; sourceTree = "<group>"; };
 		973105011CC8ACC300F24399 /* TXSystemMusicModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXSystemMusicModel.m; sourceTree = "<group>"; };
+		973105051CC8B51100F24399 /* TXPlayDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXPlayDetailViewController.h; sourceTree = "<group>"; };
+		973105061CC8B51100F24399 /* TXPlayDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXPlayDetailViewController.m; sourceTree = "<group>"; };
 		976DEB271CC86DA200E37D0D /* TXBasicSettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXBasicSettingViewController.h; sourceTree = "<group>"; };
 		976DEB281CC86DA200E37D0D /* TXBasicSettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXBasicSettingViewController.m; sourceTree = "<group>"; };
 		976DEB301CC86DA200E37D0D /* TXArrowImageItemModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXArrowImageItemModel.h; sourceTree = "<group>"; };
@@ -182,6 +185,8 @@
 			children = (
 				970D6B431CC8AB12009120F0 /* TXPlayViewController.h */,
 				970D6B441CC8AB12009120F0 /* TXPlayViewController.m */,
+				973105051CC8B51100F24399 /* TXPlayDetailViewController.h */,
+				973105061CC8B51100F24399 /* TXPlayDetailViewController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -570,6 +575,7 @@
 				973105031CC8ACC300F24399 /* TXCommandModel.m in Sources */,
 				976DEB6D1CC86DA200E37D0D /* TXBasicCollectionItemView.m in Sources */,
 				976DEB621CC86DA200E37D0D /* TXBasicCollectionItemLayout.m in Sources */,
+				973105071CC8B51100F24399 /* TXPlayDetailViewController.m in Sources */,
 				976DEB631CC86DA200E37D0D /* TXBasicCollectionItemModel.m in Sources */,
 				976DEB641CC86DA200E37D0D /* TXBasicItemModel.m in Sources */,
 				976DEB741CC86DA200E37D0D /* TXTextImageItemCell.m in Sources */,

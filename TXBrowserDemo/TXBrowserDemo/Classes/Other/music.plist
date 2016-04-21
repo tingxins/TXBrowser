@@ -4,17 +4,17 @@
 <array>
 	<dict>
 		<key>groupName</key>
-		<string>一人嗨</string>
+		<string>第一分区</string>
 		<key>groupMembers</key>
 		<array>
 			<dict>
 				<key>itemName</key>
-				<string>古诗词</string>
+				<string>item1</string>
 				<key>items</key>
 				<array>
 					<dict>
 						<key>musicName</key>
-						<string>三字经</string>
+						<string>item1</string>
 						<key>musicCommand</key>
 						<dict>
 							<key>fCommand</key>
@@ -25,7 +25,7 @@
 					</dict>
 					<dict>
 						<key>musicName</key>
-						<string>咏鹅</string>
+						<string>item2</string>
 						<key>musicCommand</key>
 						<dict>
 							<key>fCommand</key>
@@ -36,7 +36,7 @@
 					</dict>
 					<dict>
 						<key>musicName</key>
-						<string>悯农</string>
+						<string>item3</string>
 						<key>musicCommand</key>
 						<dict>
 							<key>fCommand</key>
@@ -47,7 +47,7 @@
 					</dict>
 					<dict>
 						<key>musicName</key>
-						<string>春晓</string>
+						<string>item4</string>
 						<key>musicCommand</key>
 						<dict>
 							<key>fCommand</key>
@@ -58,7 +58,7 @@
 					</dict>
 					<dict>
 						<key>musicName</key>
-						<string>静夜思</string>
+						<string>item5</string>
 						<key>musicCommand</key>
 						<dict>
 							<key>fCommand</key>
@@ -71,12 +71,12 @@
 			</dict>
 			<dict>
 				<key>itemName</key>
-				<string>文言文</string>
+				<string>item2</string>
 				<key>items</key>
 				<array>
 					<dict>
 						<key>musicName</key>
-						<string>三字经</string>
+						<string>item1</string>
 						<key>musicCommand</key>
 						<dict>
 							<key>fCommand</key>
@@ -89,12 +89,12 @@
 			</dict>
 			<dict>
 				<key>itemName</key>
-				<string>儿歌故事</string>
+				<string>item3</string>
 				<key>items</key>
 				<array>
 					<dict>
 						<key>musicName</key>
-						<string>咏鹅</string>
+						<string>item1</string>
 						<key>musicCommand</key>
 						<dict>
 							<key>fCommand</key>
@@ -105,7 +105,7 @@
 					</dict>
 					<dict>
 						<key>musicName</key>
-						<string>悯农</string>
+						<string>item2</string>
 						<key>musicCommand</key>
 						<dict>
 							<key>fCommand</key>
@@ -116,7 +116,7 @@
 					</dict>
 					<dict>
 						<key>musicName</key>
-						<string>春晓</string>
+						<string>item3</string>
 						<key>musicCommand</key>
 						<dict>
 							<key>fCommand</key>
@@ -127,7 +127,7 @@
 					</dict>
 					<dict>
 						<key>musicName</key>
-						<string>静夜思</string>
+						<string>item4</string>
 						<key>musicCommand</key>
 						<dict>
 							<key>fCommand</key>
@@ -142,12 +142,12 @@
 	</dict>
 	<dict>
 		<key>groupName</key>
-		<string>成双成对</string>
+		<string>第二分区</string>
 		<key>groupMembers</key>
 		<array>
 			<dict>
 				<key>musicName</key>
-				<string>你好</string>
+				<string>item1</string>
 				<key>musicCommand</key>
 				<dict>
 					<key>fCommand</key>
@@ -158,7 +158,7 @@
 			</dict>
 			<dict>
 				<key>musicName</key>
-				<string>恭喜发财</string>
+				<string>item2</string>
 				<key>musicCommand</key>
 				<dict>
 					<key>fCommand</key>
@@ -169,7 +169,7 @@
 			</dict>
 			<dict>
 				<key>musicName</key>
-				<string>吃了吗</string>
+				<string>item3</string>
 				<key>musicCommand</key>
 				<dict>
 					<key>fCommand</key>
@@ -180,7 +180,7 @@
 			</dict>
 			<dict>
 				<key>musicName</key>
-				<string>你好乖乖哦</string>
+				<string>item4</string>
 				<key>musicCommand</key>
 				<dict>
 					<key>fCommand</key>
@@ -191,7 +191,7 @@
 			</dict>
 			<dict>
 				<key>musicName</key>
-				<string>别喂我了</string>
+				<string>item5</string>
 				<key>musicCommand</key>
 				<dict>
 					<key>fCommand</key>
@@ -202,7 +202,7 @@
 			</dict>
 			<dict>
 				<key>musicName</key>
-				<string>抱抱我</string>
+				<string>item6</string>
 				<key>musicCommand</key>
 				<dict>
 					<key>fCommand</key>
@@ -215,12 +215,12 @@
 	</dict>
 	<dict>
 		<key>groupName</key>
-		<string>三妻四妾</string>
+		<string>第三分区</string>
 		<key>groupMembers</key>
 		<array>
 			<dict>
 				<key>musicName</key>
-				<string>你今天狠靓哦</string>
+				<string>item1</string>
 				<key>musicCommand</key>
 				<dict>
 					<key>fCommand</key>
@@ -231,7 +231,7 @@
 			</dict>
 			<dict>
 				<key>musicName</key>
-				<string>我今天有空，约吗</string>
+				<string>item2</string>
 				<key>musicCommand</key>
 				<dict>
 					<key>fCommand</key>
@@ -242,7 +242,7 @@
 			</dict>
 			<dict>
 				<key>musicName</key>
-				<string>天天运动，身体好</string>
+				<string>item3</string>
 				<key>musicCommand</key>
 				<dict>
 					<key>fCommand</key>
@@ -253,7 +253,7 @@
 			</dict>
 			<dict>
 				<key>musicName</key>
-				<string>吃得太饱了</string>
+				<string>item4</string>
 				<key>musicCommand</key>
 				<dict>
 					<key>fCommand</key>
@@ -264,7 +264,7 @@
 			</dict>
 			<dict>
 				<key>musicName</key>
-				<string>我爱你</string>
+				<string>item5</string>
 				<key>musicCommand</key>
 				<dict>
 					<key>fCommand</key>
@@ -275,7 +275,7 @@
 			</dict>
 			<dict>
 				<key>musicName</key>
-				<string>别理我，烦着</string>
+				<string>item6</string>
 				<key>musicCommand</key>
 				<dict>
 					<key>fCommand</key>
