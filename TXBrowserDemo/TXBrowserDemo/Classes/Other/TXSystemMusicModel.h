@@ -3,7 +3,7 @@
 //  TXBrowserDemo
 //
 //  Created by tingxins on 4/7/16.
-//  Copyright © 2016 TBZ. All rights reserved.
+//  Copyright © 2016 TINGXINS. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
