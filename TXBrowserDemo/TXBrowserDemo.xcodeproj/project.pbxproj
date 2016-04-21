@@ -7,6 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		970D6B381CC8AA66009120F0 /* music.plist in Resources */ = {isa = PBXBuildFile; fileRef = 970D6B371CC8AA66009120F0 /* music.plist */; };
+		970D6B421CC8AAE9009120F0 /* TXSettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 970D6B3F1CC8AAE9009120F0 /* TXSettingViewController.m */; };
+		970D6B451CC8AB12009120F0 /* TXPlayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 970D6B441CC8AB12009120F0 /* TXPlayViewController.m */; };
+		973105031CC8ACC300F24399 /* TXCommandModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 973104FF1CC8ACC300F24399 /* TXCommandModel.m */; };
+		973105041CC8ACC300F24399 /* TXSystemMusicModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 973105011CC8ACC300F24399 /* TXSystemMusicModel.m */; };
+		976DEB5C1CC86DA200E37D0D /* TXBasicSettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB281CC86DA200E37D0D /* TXBasicSettingViewController.m */; };
+		976DEB601CC86DA200E37D0D /* TXArrowImageItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB311CC86DA200E37D0D /* TXArrowImageItemModel.m */; };
+		976DEB611CC86DA200E37D0D /* TXArrowItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB331CC86DA200E37D0D /* TXArrowItemModel.m */; };
+		976DEB621CC86DA200E37D0D /* TXBasicCollectionItemLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB351CC86DA200E37D0D /* TXBasicCollectionItemLayout.m */; };
+		976DEB631CC86DA200E37D0D /* TXBasicCollectionItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB371CC86DA200E37D0D /* TXBasicCollectionItemModel.m */; };
+		976DEB641CC86DA200E37D0D /* TXBasicItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB391CC86DA200E37D0D /* TXBasicItemModel.m */; };
+		976DEB651CC86DA200E37D0D /* TXItemGroupModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB3B1CC86DA200E37D0D /* TXItemGroupModel.m */; };
+		976DEB661CC86DA200E37D0D /* TXSwitchImageItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB3D1CC86DA200E37D0D /* TXSwitchImageItemModel.m */; };
+		976DEB671CC86DA200E37D0D /* TXSwitchItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB3F1CC86DA200E37D0D /* TXSwitchItemModel.m */; };
+		976DEB681CC86DA200E37D0D /* TXTextImageItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB411CC86DA200E37D0D /* TXTextImageItemModel.m */; };
+		976DEB691CC86DA200E37D0D /* TXTextItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB431CC86DA200E37D0D /* TXTextItemModel.m */; };
+		976DEB6A1CC86DA200E37D0D /* TXArrowImageItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB461CC86DA200E37D0D /* TXArrowImageItemCell.m */; };
+		976DEB6B1CC86DA200E37D0D /* TXArrowItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB481CC86DA200E37D0D /* TXArrowItemCell.m */; };
+		976DEB6C1CC86DA200E37D0D /* TXBasicCollectionItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB4A1CC86DA200E37D0D /* TXBasicCollectionItemCell.m */; };
+		976DEB6D1CC86DA200E37D0D /* TXBasicCollectionItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB4C1CC86DA200E37D0D /* TXBasicCollectionItemView.m */; };
+		976DEB6E1CC86DA200E37D0D /* TXBasicCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB4E1CC86DA200E37D0D /* TXBasicCollectionViewCell.m */; };
+		976DEB6F1CC86DA200E37D0D /* TXBasicItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB501CC86DA200E37D0D /* TXBasicItemCell.m */; };
+		976DEB721CC86DA200E37D0D /* TXSwitchImageItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB551CC86DA200E37D0D /* TXSwitchImageItemCell.m */; };
+		976DEB731CC86DA200E37D0D /* TXSwitchItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB571CC86DA200E37D0D /* TXSwitchItemCell.m */; };
+		976DEB741CC86DA200E37D0D /* TXTextImageItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB591CC86DA200E37D0D /* TXTextImageItemCell.m */; };
+		976DEB751CC86DA200E37D0D /* TXTextItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB5B1CC86DA200E37D0D /* TXTextItemCell.m */; };
+		976DEB7B1CC86DF900E37D0D /* TXTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 976DEB781CC86DF900E37D0D /* TXTabBarController.m */; };
 		977A034C1CC7911B006FC5EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 977A034B1CC7911B006FC5EE /* Assets.xcassets */; };
 		977A034F1CC7911B006FC5EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 977A034D1CC7911B006FC5EE /* LaunchScreen.storyboard */; };
 		977A035A1CC7911B006FC5EE /* TXBrowserDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 977A03591CC7911B006FC5EE /* TXBrowserDemoTests.m */; };
@@ -14,7 +41,6 @@
 		977A037A1CC7932B006FC5EE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 977A03771CC7932B006FC5EE /* AppDelegate.m */; };
 		977A037B1CC7932B006FC5EE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 977A03781CC7932B006FC5EE /* Info.plist */; };
 		977A037C1CC7932B006FC5EE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 977A03791CC7932B006FC5EE /* main.m */; };
-		977A037F1CC79379006FC5EE /* TXTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 977A037E1CC79379006FC5EE /* TXTabBarController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +61,61 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		970D6B2B1CC87029009120F0 /* TXBrowser.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXBrowser.pch; sourceTree = "<group>"; };
+		970D6B2C1CC8707A009120F0 /* TXCommon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXCommon.h; sourceTree = "<group>"; };
+		970D6B371CC8AA66009120F0 /* music.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = music.plist; sourceTree = "<group>"; };
+		970D6B3E1CC8AAE9009120F0 /* TXSettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXSettingViewController.h; sourceTree = "<group>"; };
+		970D6B3F1CC8AAE9009120F0 /* TXSettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXSettingViewController.m; sourceTree = "<group>"; };
+		970D6B431CC8AB12009120F0 /* TXPlayViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXPlayViewController.h; sourceTree = "<group>"; };
+		970D6B441CC8AB12009120F0 /* TXPlayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXPlayViewController.m; sourceTree = "<group>"; };
+		973104FE1CC8ACC300F24399 /* TXCommandModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXCommandModel.h; sourceTree = "<group>"; };
+		973104FF1CC8ACC300F24399 /* TXCommandModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXCommandModel.m; sourceTree = "<group>"; };
+		973105001CC8ACC300F24399 /* TXSystemMusicModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXSystemMusicModel.h; sourceTree = "<group>"; };
+		973105011CC8ACC300F24399 /* TXSystemMusicModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXSystemMusicModel.m; sourceTree = "<group>"; };
+		976DEB271CC86DA200E37D0D /* TXBasicSettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXBasicSettingViewController.h; sourceTree = "<group>"; };
+		976DEB281CC86DA200E37D0D /* TXBasicSettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXBasicSettingViewController.m; sourceTree = "<group>"; };
+		976DEB301CC86DA200E37D0D /* TXArrowImageItemModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXArrowImageItemModel.h; sourceTree = "<group>"; };
+		976DEB311CC86DA200E37D0D /* TXArrowImageItemModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXArrowImageItemModel.m; sourceTree = "<group>"; };
+		976DEB321CC86DA200E37D0D /* TXArrowItemModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXArrowItemModel.h; sourceTree = "<group>"; };
+		976DEB331CC86DA200E37D0D /* TXArrowItemModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXArrowItemModel.m; sourceTree = "<group>"; };
+		976DEB341CC86DA200E37D0D /* TXBasicCollectionItemLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXBasicCollectionItemLayout.h; sourceTree = "<group>"; };
+		976DEB351CC86DA200E37D0D /* TXBasicCollectionItemLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXBasicCollectionItemLayout.m; sourceTree = "<group>"; };
+		976DEB361CC86DA200E37D0D /* TXBasicCollectionItemModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXBasicCollectionItemModel.h; sourceTree = "<group>"; };
+		976DEB371CC86DA200E37D0D /* TXBasicCollectionItemModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXBasicCollectionItemModel.m; sourceTree = "<group>"; };
+		976DEB381CC86DA200E37D0D /* TXBasicItemModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXBasicItemModel.h; sourceTree = "<group>"; };
+		976DEB391CC86DA200E37D0D /* TXBasicItemModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXBasicItemModel.m; sourceTree = "<group>"; };
+		976DEB3A1CC86DA200E37D0D /* TXItemGroupModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXItemGroupModel.h; sourceTree = "<group>"; };
+		976DEB3B1CC86DA200E37D0D /* TXItemGroupModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXItemGroupModel.m; sourceTree = "<group>"; };
+		976DEB3C1CC86DA200E37D0D /* TXSwitchImageItemModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXSwitchImageItemModel.h; sourceTree = "<group>"; };
+		976DEB3D1CC86DA200E37D0D /* TXSwitchImageItemModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXSwitchImageItemModel.m; sourceTree = "<group>"; };
+		976DEB3E1CC86DA200E37D0D /* TXSwitchItemModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXSwitchItemModel.h; sourceTree = "<group>"; };
+		976DEB3F1CC86DA200E37D0D /* TXSwitchItemModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXSwitchItemModel.m; sourceTree = "<group>"; };
+		976DEB401CC86DA200E37D0D /* TXTextImageItemModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXTextImageItemModel.h; sourceTree = "<group>"; };
+		976DEB411CC86DA200E37D0D /* TXTextImageItemModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXTextImageItemModel.m; sourceTree = "<group>"; };
+		976DEB421CC86DA200E37D0D /* TXTextItemModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXTextItemModel.h; sourceTree = "<group>"; };
+		976DEB431CC86DA200E37D0D /* TXTextItemModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXTextItemModel.m; sourceTree = "<group>"; };
+		976DEB451CC86DA200E37D0D /* TXArrowImageItemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXArrowImageItemCell.h; sourceTree = "<group>"; };
+		976DEB461CC86DA200E37D0D /* TXArrowImageItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXArrowImageItemCell.m; sourceTree = "<group>"; };
+		976DEB471CC86DA200E37D0D /* TXArrowItemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXArrowItemCell.h; sourceTree = "<group>"; };
+		976DEB481CC86DA200E37D0D /* TXArrowItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXArrowItemCell.m; sourceTree = "<group>"; };
+		976DEB491CC86DA200E37D0D /* TXBasicCollectionItemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXBasicCollectionItemCell.h; sourceTree = "<group>"; };
+		976DEB4A1CC86DA200E37D0D /* TXBasicCollectionItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXBasicCollectionItemCell.m; sourceTree = "<group>"; };
+		976DEB4B1CC86DA200E37D0D /* TXBasicCollectionItemView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXBasicCollectionItemView.h; sourceTree = "<group>"; };
+		976DEB4C1CC86DA200E37D0D /* TXBasicCollectionItemView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXBasicCollectionItemView.m; sourceTree = "<group>"; };
+		976DEB4D1CC86DA200E37D0D /* TXBasicCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXBasicCollectionViewCell.h; sourceTree = "<group>"; };
+		976DEB4E1CC86DA200E37D0D /* TXBasicCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXBasicCollectionViewCell.m; sourceTree = "<group>"; };
+		976DEB4F1CC86DA200E37D0D /* TXBasicItemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXBasicItemCell.h; sourceTree = "<group>"; };
+		976DEB501CC86DA200E37D0D /* TXBasicItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXBasicItemCell.m; sourceTree = "<group>"; };
+		976DEB541CC86DA200E37D0D /* TXSwitchImageItemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXSwitchImageItemCell.h; sourceTree = "<group>"; };
+		976DEB551CC86DA200E37D0D /* TXSwitchImageItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXSwitchImageItemCell.m; sourceTree = "<group>"; };
+		976DEB561CC86DA200E37D0D /* TXSwitchItemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXSwitchItemCell.h; sourceTree = "<group>"; };
+		976DEB571CC86DA200E37D0D /* TXSwitchItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXSwitchItemCell.m; sourceTree = "<group>"; };
+		976DEB581CC86DA200E37D0D /* TXTextImageItemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXTextImageItemCell.h; sourceTree = "<group>"; };
+		976DEB591CC86DA200E37D0D /* TXTextImageItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXTextImageItemCell.m; sourceTree = "<group>"; };
+		976DEB5A1CC86DA200E37D0D /* TXTextItemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXTextItemCell.h; sourceTree = "<group>"; };
+		976DEB5B1CC86DA200E37D0D /* TXTextItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXTextItemCell.m; sourceTree = "<group>"; };
+		976DEB771CC86DF900E37D0D /* TXTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXTabBarController.h; sourceTree = "<group>"; };
+		976DEB781CC86DF900E37D0D /* TXTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXTabBarController.m; sourceTree = "<group>"; };
 		977A033C1CC7911B006FC5EE /* TXBrowserDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TXBrowserDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		977A03401CC7911B006FC5EE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		977A034B1CC7911B006FC5EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -49,8 +130,6 @@
 		977A03771CC7932B006FC5EE /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		977A03781CC7932B006FC5EE /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		977A03791CC7932B006FC5EE /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		977A037D1CC79379006FC5EE /* TXTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXTabBarController.h; sourceTree = "<group>"; };
-		977A037E1CC79379006FC5EE /* TXTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXTabBarController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +157,158 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		970D6B331CC8AA30009120F0 /* Set */ = {
+			isa = PBXGroup;
+			children = (
+				970D6B3D1CC8AAE9009120F0 /* Controller */,
+				970D6B401CC8AAE9009120F0 /* Model */,
+				970D6B411CC8AAE9009120F0 /* View */,
+			);
+			path = Set;
+			sourceTree = "<group>";
+		};
+		970D6B391CC8AABC009120F0 /* Play */ = {
+			isa = PBXGroup;
+			children = (
+				970D6B3A1CC8AAD2009120F0 /* Controller */,
+				970D6B3B1CC8AAD2009120F0 /* Model */,
+				970D6B3C1CC8AAD2009120F0 /* View */,
+			);
+			path = Play;
+			sourceTree = "<group>";
+		};
+		970D6B3A1CC8AAD2009120F0 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				970D6B431CC8AB12009120F0 /* TXPlayViewController.h */,
+				970D6B441CC8AB12009120F0 /* TXPlayViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		970D6B3B1CC8AAD2009120F0 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		970D6B3C1CC8AAD2009120F0 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		970D6B3D1CC8AAE9009120F0 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				970D6B3E1CC8AAE9009120F0 /* TXSettingViewController.h */,
+				970D6B3F1CC8AAE9009120F0 /* TXSettingViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		970D6B401CC8AAE9009120F0 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		970D6B411CC8AAE9009120F0 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		976DEB261CC86DA200E37D0D /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				976DEB271CC86DA200E37D0D /* TXBasicSettingViewController.h */,
+				976DEB281CC86DA200E37D0D /* TXBasicSettingViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		976DEB2F1CC86DA200E37D0D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				976DEB301CC86DA200E37D0D /* TXArrowImageItemModel.h */,
+				976DEB311CC86DA200E37D0D /* TXArrowImageItemModel.m */,
+				976DEB321CC86DA200E37D0D /* TXArrowItemModel.h */,
+				976DEB331CC86DA200E37D0D /* TXArrowItemModel.m */,
+				976DEB341CC86DA200E37D0D /* TXBasicCollectionItemLayout.h */,
+				976DEB351CC86DA200E37D0D /* TXBasicCollectionItemLayout.m */,
+				976DEB361CC86DA200E37D0D /* TXBasicCollectionItemModel.h */,
+				976DEB371CC86DA200E37D0D /* TXBasicCollectionItemModel.m */,
+				976DEB381CC86DA200E37D0D /* TXBasicItemModel.h */,
+				976DEB391CC86DA200E37D0D /* TXBasicItemModel.m */,
+				976DEB3A1CC86DA200E37D0D /* TXItemGroupModel.h */,
+				976DEB3B1CC86DA200E37D0D /* TXItemGroupModel.m */,
+				976DEB3C1CC86DA200E37D0D /* TXSwitchImageItemModel.h */,
+				976DEB3D1CC86DA200E37D0D /* TXSwitchImageItemModel.m */,
+				976DEB3E1CC86DA200E37D0D /* TXSwitchItemModel.h */,
+				976DEB3F1CC86DA200E37D0D /* TXSwitchItemModel.m */,
+				976DEB401CC86DA200E37D0D /* TXTextImageItemModel.h */,
+				976DEB411CC86DA200E37D0D /* TXTextImageItemModel.m */,
+				976DEB421CC86DA200E37D0D /* TXTextItemModel.h */,
+				976DEB431CC86DA200E37D0D /* TXTextItemModel.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		976DEB441CC86DA200E37D0D /* View */ = {
+			isa = PBXGroup;
+			children = (
+				976DEB451CC86DA200E37D0D /* TXArrowImageItemCell.h */,
+				976DEB461CC86DA200E37D0D /* TXArrowImageItemCell.m */,
+				976DEB471CC86DA200E37D0D /* TXArrowItemCell.h */,
+				976DEB481CC86DA200E37D0D /* TXArrowItemCell.m */,
+				976DEB491CC86DA200E37D0D /* TXBasicCollectionItemCell.h */,
+				976DEB4A1CC86DA200E37D0D /* TXBasicCollectionItemCell.m */,
+				976DEB4B1CC86DA200E37D0D /* TXBasicCollectionItemView.h */,
+				976DEB4C1CC86DA200E37D0D /* TXBasicCollectionItemView.m */,
+				976DEB4D1CC86DA200E37D0D /* TXBasicCollectionViewCell.h */,
+				976DEB4E1CC86DA200E37D0D /* TXBasicCollectionViewCell.m */,
+				976DEB4F1CC86DA200E37D0D /* TXBasicItemCell.h */,
+				976DEB501CC86DA200E37D0D /* TXBasicItemCell.m */,
+				976DEB541CC86DA200E37D0D /* TXSwitchImageItemCell.h */,
+				976DEB551CC86DA200E37D0D /* TXSwitchImageItemCell.m */,
+				976DEB561CC86DA200E37D0D /* TXSwitchItemCell.h */,
+				976DEB571CC86DA200E37D0D /* TXSwitchItemCell.m */,
+				976DEB581CC86DA200E37D0D /* TXTextImageItemCell.h */,
+				976DEB591CC86DA200E37D0D /* TXTextImageItemCell.m */,
+				976DEB5A1CC86DA200E37D0D /* TXTextItemCell.h */,
+				976DEB5B1CC86DA200E37D0D /* TXTextItemCell.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		976DEB761CC86DF900E37D0D /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				976DEB771CC86DF900E37D0D /* TXTabBarController.h */,
+				976DEB781CC86DF900E37D0D /* TXTabBarController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		976DEB791CC86DF900E37D0D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		976DEB7A1CC86DF900E37D0D /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		977A03331CC7911B006FC5EE = {
 			isa = PBXGroup;
 			children = (
@@ -140,6 +371,8 @@
 			children = (
 				977A03731CC7932B006FC5EE /* Browser */,
 				977A03741CC7932B006FC5EE /* Main */,
+				970D6B331CC8AA30009120F0 /* Set */,
+				970D6B391CC8AABC009120F0 /* Play */,
 				977A03751CC7932B006FC5EE /* Other */,
 			);
 			path = Classes;
@@ -148,6 +381,9 @@
 		977A03731CC7932B006FC5EE /* Browser */ = {
 			isa = PBXGroup;
 			children = (
+				976DEB261CC86DA200E37D0D /* Controller */,
+				976DEB2F1CC86DA200E37D0D /* Model */,
+				976DEB441CC86DA200E37D0D /* View */,
 			);
 			path = Browser;
 			sourceTree = "<group>";
@@ -155,8 +391,9 @@
 		977A03741CC7932B006FC5EE /* Main */ = {
 			isa = PBXGroup;
 			children = (
-				977A037D1CC79379006FC5EE /* TXTabBarController.h */,
-				977A037E1CC79379006FC5EE /* TXTabBarController.m */,
+				976DEB761CC86DF900E37D0D /* Controller */,
+				976DEB791CC86DF900E37D0D /* Model */,
+				976DEB7A1CC86DF900E37D0D /* View */,
 			);
 			path = Main;
 			sourceTree = "<group>";
@@ -164,10 +401,17 @@
 		977A03751CC7932B006FC5EE /* Other */ = {
 			isa = PBXGroup;
 			children = (
+				973104FE1CC8ACC300F24399 /* TXCommandModel.h */,
+				973104FF1CC8ACC300F24399 /* TXCommandModel.m */,
+				973105001CC8ACC300F24399 /* TXSystemMusicModel.h */,
+				973105011CC8ACC300F24399 /* TXSystemMusicModel.m */,
 				977A03761CC7932B006FC5EE /* AppDelegate.h */,
 				977A03771CC7932B006FC5EE /* AppDelegate.m */,
 				977A03781CC7932B006FC5EE /* Info.plist */,
 				977A03791CC7932B006FC5EE /* main.m */,
+				970D6B2B1CC87029009120F0 /* TXBrowser.pch */,
+				970D6B2C1CC8707A009120F0 /* TXCommon.h */,
+				970D6B371CC8AA66009120F0 /* music.plist */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -276,6 +520,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				977A034F1CC7911B006FC5EE /* LaunchScreen.storyboard in Resources */,
+				970D6B381CC8AA66009120F0 /* music.plist in Resources */,
 				977A034C1CC7911B006FC5EE /* Assets.xcassets in Resources */,
 				977A037B1CC7932B006FC5EE /* Info.plist in Resources */,
 			);
@@ -302,9 +547,34 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				976DEB7B1CC86DF900E37D0D /* TXTabBarController.m in Sources */,
+				970D6B421CC8AAE9009120F0 /* TXSettingViewController.m in Sources */,
+				976DEB5C1CC86DA200E37D0D /* TXBasicSettingViewController.m in Sources */,
+				976DEB611CC86DA200E37D0D /* TXArrowItemModel.m in Sources */,
+				976DEB731CC86DA200E37D0D /* TXSwitchItemCell.m in Sources */,
+				976DEB691CC86DA200E37D0D /* TXTextItemModel.m in Sources */,
+				976DEB721CC86DA200E37D0D /* TXSwitchImageItemCell.m in Sources */,
+				976DEB6E1CC86DA200E37D0D /* TXBasicCollectionViewCell.m in Sources */,
+				976DEB6B1CC86DA200E37D0D /* TXArrowItemCell.m in Sources */,
+				976DEB671CC86DA200E37D0D /* TXSwitchItemModel.m in Sources */,
+				976DEB751CC86DA200E37D0D /* TXTextItemCell.m in Sources */,
+				976DEB681CC86DA200E37D0D /* TXTextImageItemModel.m in Sources */,
+				976DEB651CC86DA200E37D0D /* TXItemGroupModel.m in Sources */,
+				976DEB661CC86DA200E37D0D /* TXSwitchImageItemModel.m in Sources */,
+				976DEB601CC86DA200E37D0D /* TXArrowImageItemModel.m in Sources */,
 				977A037A1CC7932B006FC5EE /* AppDelegate.m in Sources */,
+				973105041CC8ACC300F24399 /* TXSystemMusicModel.m in Sources */,
+				976DEB6A1CC86DA200E37D0D /* TXArrowImageItemCell.m in Sources */,
 				977A037C1CC7932B006FC5EE /* main.m in Sources */,
-				977A037F1CC79379006FC5EE /* TXTabBarController.m in Sources */,
+				976DEB6F1CC86DA200E37D0D /* TXBasicItemCell.m in Sources */,
+				973105031CC8ACC300F24399 /* TXCommandModel.m in Sources */,
+				976DEB6D1CC86DA200E37D0D /* TXBasicCollectionItemView.m in Sources */,
+				976DEB621CC86DA200E37D0D /* TXBasicCollectionItemLayout.m in Sources */,
+				976DEB631CC86DA200E37D0D /* TXBasicCollectionItemModel.m in Sources */,
+				976DEB641CC86DA200E37D0D /* TXBasicItemModel.m in Sources */,
+				976DEB741CC86DA200E37D0D /* TXTextImageItemCell.m in Sources */,
+				976DEB6C1CC86DA200E37D0D /* TXBasicCollectionItemCell.m in Sources */,
+				970D6B451CC8AB12009120F0 /* TXPlayViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -439,6 +709,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREFIX_HEADER = TXBrowserDemo/Classes/Other/TXBrowser.pch;
 				INFOPLIST_FILE = TXBrowserDemo/Classes/Other/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -451,6 +722,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREFIX_HEADER = TXBrowserDemo/Classes/Other/TXBrowser.pch;
 				INFOPLIST_FILE = TXBrowserDemo/Classes/Other/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -524,6 +796,7 @@
 				977A036B1CC7911B006FC5EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		977A036C1CC7911B006FC5EE /* Build configuration list for PBXNativeTarget "TXBrowserDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +805,7 @@
 				977A036E1CC7911B006FC5EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		977A036F1CC7911B006FC5EE /* Build configuration list for PBXNativeTarget "TXBrowserDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -540,6 +814,7 @@
 				977A03711CC7911B006FC5EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

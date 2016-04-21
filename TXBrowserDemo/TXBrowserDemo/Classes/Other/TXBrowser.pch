@@ -1,0 +1,21 @@
+//
+//  TXBrowser.pch
+//  TXBrowserDemo
+//
+//  Created by tingxins on 4/21/16.
+//  Copyright © 2016 TINGXINS All rights reserved.
+//
+
+#ifndef TXBrowser_pch
+#define TXBrowser_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+/** 布局相关宏定义 **/
+#define TXBasicCollectionViewWH 80
+
+/** 导入公用类 **/
+#import "TXCommon.h"
+
+#endif /* TXBrowser_pch */

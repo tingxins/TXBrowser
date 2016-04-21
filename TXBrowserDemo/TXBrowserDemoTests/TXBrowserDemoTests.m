@@ -2,8 +2,8 @@
 //  TXBrowserDemoTests.m
 //  TXBrowserDemoTests
 //
-//  Created by 李昕 on 4/20/16.
-//  Copyright © 2016 TX. All rights reserved.
+//  Created by tingxins on 4/20/16.
+//  Copyright © 2016 TINGXINS All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
