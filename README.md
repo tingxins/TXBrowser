@@ -10,8 +10,8 @@
 ###Contents
 - Get Start
 
-	1. 控制继承TXBasicSettingViewController即可，具体操作参考Demo
-
+	1. 控制器继承TXBasicSettingViewController即可，具体操作参考Demo
+	2. 如果Cell想定制，则继承TXBasicItemCell类即可，同时数据模型则继承TXBasicItemModel。
 
 ```
 正在完善中，敬请期待！
