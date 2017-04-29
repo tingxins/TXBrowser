@@ -2,12 +2,13 @@
 
 ## Overview
 
-**TXBrowser**，一个实现浏览多种样式的cell框架，一键轻松实现微博、新闻、App设置、菜谱等Cell的框架，支持混合使用。
+**TXBrowser**，一个实现浏览多种样式的cell框架，轻松并快速实现微博、新闻、App设置、菜谱、商城订单等Cell的框架，支持混合使用。
 
-**note:**本框架主要采用block形式进行处理，因此在使用过程中，开发者要注意内存泄漏问题，可采用typeof(强引用对象)解决。
+**note:**本框架主要采用block形式进行处理，因此在使用过程中，开发者要注意内存泄漏问题。
 
-![TX icon](https://github.com/tingxins/TXBrowser/blob/master/TXBrowserDemo/TXBrowserDemo/Classes/Other/setting.png)
-![TX icon](https://github.com/tingxins/TXBrowser/blob/master/TXBrowserDemo/TXBrowserDemo/Classes/Other/browser.png)
+![TX icon](http://image.tingxins.cn/TXBrowser/browser-setting.png)
+
+![TX icon](http://image.tingxins.cn/TXBrowser/browser-jd.png)
 
 ### Contents
 
