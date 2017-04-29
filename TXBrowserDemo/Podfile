@@ -1,0 +1,10 @@
+platform :ios, '8.0'
+
+target 'TXBrowserDemo' do
+project 'TXBrowserDemo.xcodeproj'
+  pod 'TXFPSCalculator'
+  pod 'MJExtension'
+  pod 'SDWebImage'
+  pod 'TPKeyboardAvoiding'
+
+end
